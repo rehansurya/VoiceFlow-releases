@@ -19,6 +19,16 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "1.2.0",
+          "buildVersion": "4",
+          "date": "2026-09-13",
+          "localizedDescription": "Mac <-> iPhone sync over the local network",
+          "downloadURL": "https://raw.githubusercontent.com/rehansurya/VoiceFlow-releases/main/VoiceFlow-1.2.0-4.ipa",
+          "size": 607383,
+          "sha256": "fdcc9ef041a9e3fc00dd330c0be3e52b785e520a6f592db5596726eb1fbd55e3",
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "1.1.0",
           "buildVersion": "3",
           "date": "2026-09-13",
