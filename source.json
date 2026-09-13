@@ -22,10 +22,10 @@
           "version": "1.4.1",
           "buildVersion": "8",
           "date": "2026-09-13",
-          "localizedDescription": "iOS keyboard: fix crash when opening the app from the mic key",
+          "localizedDescription": "Mac: Wispr-style main window, dictation stats, stable signing",
           "downloadURL": "https://raw.githubusercontent.com/rehansurya/VoiceFlow-releases/main/VoiceFlow-1.4.1-8.ipa",
-          "size": 746218,
-          "sha256": "2b3bf868430578c17b026bdf6effd914c0107198917dbd7b012cdea9a0b60d7c",
+          "size": 746217,
+          "sha256": "4498df8100bc701cece5b1ca0c5f478541e9d8e8a76bbf6bd009d78a5af7c7e0",
           "minOSVersion": "17.0"
         },
         {
