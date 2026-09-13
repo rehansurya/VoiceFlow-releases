@@ -1,0 +1,43 @@
+{
+  "name": "VoiceFlow",
+  "identifier": "com.rehansurya.voiceflow.source",
+  "subtitle": "Dictation that lands in any text field.",
+  "description": "VoiceFlow for iPhone: an AI dictation app plus a keyboard that inserts what you say straight into any app.",
+  "iconURL": "https://raw.githubusercontent.com/rehansurya/VoiceFlow-releases/main/icon.png",
+  "website": "https://github.com/rehansurya/VoiceFlow-releases",
+  "tintColor": "#6D4AE8",
+  "apps": [
+    {
+      "name": "VoiceFlow",
+      "bundleIdentifier": "com.rehansurya.voiceflow.ios",
+      "developerName": "Rehan Surya",
+      "subtitle": "Dictate anywhere on iPhone.",
+      "localizedDescription": "Tap Dictate on the VoiceFlow keyboard, talk, tap Done: the cleaned-up text appears at the cursor. Groq Whisper transcription with AI cleanup, custom vocabulary, translation, and a local history. Bring your own API key.",
+      "iconURL": "https://raw.githubusercontent.com/rehansurya/VoiceFlow-releases/main/icon.png",
+      "tintColor": "#6D4AE8",
+      "category": "utilities",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "1.1.0",
+          "buildVersion": "3",
+          "date": "2026-09-13",
+          "localizedDescription": "Keyboard sessions: dictation inserts inline, no clipboard.",
+          "downloadURL": "https://raw.githubusercontent.com/rehansurya/VoiceFlow-releases/main/VoiceFlow-1.1.0-3.ipa",
+          "size": 478596,
+          "sha256": "7340c2f5bac4ef2b072d537f9cff340ee35d9049292c88732ac2d8f77cc02b7f",
+          "minOSVersion": "17.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [
+          "com.apple.security.application-groups"
+        ],
+        "privacy": {
+          "NSMicrophoneUsageDescription": "VoiceFlow needs the microphone to transcribe your speech, including while the VoiceFlow keyboard is in use."
+        }
+      }
+    }
+  ],
+  "news": []
+}
