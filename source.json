@@ -19,6 +19,16 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "1.2.1",
+          "buildVersion": "5",
+          "date": "2026-09-13",
+          "localizedDescription": "iOS keyboard: open the app with the modern selector; explain when iOS blocks it",
+          "downloadURL": "https://raw.githubusercontent.com/rehansurya/VoiceFlow-releases/main/VoiceFlow-1.2.1-5.ipa",
+          "size": 608615,
+          "sha256": "165759f30621ad0e3853aea53ba39b843d6116e3d630db8269f437a7b40da9ff",
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "1.2.0",
           "buildVersion": "4",
           "date": "2026-09-13",
