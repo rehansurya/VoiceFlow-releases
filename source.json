@@ -19,6 +19,16 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "1.4.1",
+          "buildVersion": "8",
+          "date": "2026-09-13",
+          "localizedDescription": "iOS keyboard: fix crash when opening the app from the mic key",
+          "downloadURL": "https://raw.githubusercontent.com/rehansurya/VoiceFlow-releases/main/VoiceFlow-1.4.1-8.ipa",
+          "size": 746218,
+          "sha256": "2b3bf868430578c17b026bdf6effd914c0107198917dbd7b012cdea9a0b60d7c",
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "1.4.0",
           "buildVersion": "7",
           "date": "2026-09-13",
@@ -56,16 +66,6 @@
           "downloadURL": "https://raw.githubusercontent.com/rehansurya/VoiceFlow-releases/main/VoiceFlow-1.2.0-4.ipa",
           "size": 607383,
           "sha256": "fdcc9ef041a9e3fc00dd330c0be3e52b785e520a6f592db5596726eb1fbd55e3",
-          "minOSVersion": "17.0"
-        },
-        {
-          "version": "1.1.0",
-          "buildVersion": "3",
-          "date": "2026-09-13",
-          "localizedDescription": "iOS CI: publish every green build to the public AltStore/SideStore source",
-          "downloadURL": "https://raw.githubusercontent.com/rehansurya/VoiceFlow-releases/main/VoiceFlow-1.1.0-3.ipa",
-          "size": 478596,
-          "sha256": "cd7ed5a8ed2a0c75e5b38bbc623c4f9203b89db9d3de16dae0f32f0bce82c531",
           "minOSVersion": "17.0"
         }
       ],
