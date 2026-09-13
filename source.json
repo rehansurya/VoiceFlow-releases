@@ -19,6 +19,16 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "1.4.0",
+          "buildVersion": "7",
+          "date": "2026-09-13",
+          "localizedDescription": "Notes on Mac and iPhone, synced both ways",
+          "downloadURL": "https://raw.githubusercontent.com/rehansurya/VoiceFlow-releases/main/VoiceFlow-1.4.0-7.ipa",
+          "size": 745816,
+          "sha256": "f55c2bb08ee044c7a6d19adcf97345053443cb73299454c0b28769ee772603e1",
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "1.3.0",
           "buildVersion": "6",
           "date": "2026-09-13",
